@@ -4,5 +4,9 @@ Line from local
 line remote 2.
 my change
 some change
+<<<<<<< HEAD
 new from us123
 my changes
+=======
+some change from proj1
+>>>>>>> from proj1
